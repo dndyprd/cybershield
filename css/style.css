@@ -356,6 +356,10 @@ body {
   font-weight: 400;
 }
 
+.home .type-wrap{
+  margin-bottom: 52px;
+}
+
 /* ABOUT US */
 .about {
   display: flex;
